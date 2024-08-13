@@ -1,10 +1,7 @@
+# Education Landing Page Design
 
-  # Education Landing page Design (Community)
+## Deskripsi
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+**Education Landing Page Design** adalah proyek desain halaman arahan (landing page) untuk sebuah platform pendidikan. Tujuan dari proyek ini adalah untuk membuat sebuah halaman web yang menarik dan informatif, yang dapat digunakan oleh institusi pendidikan atau platform online untuk mempromosikan kursus, webinar, atau layanan edukasi lainnya. Desain ini fokus pada kesederhanaan, responsivitas, dan kemudahan navigasi untuk memberikan pengalaman pengguna yang optimal.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+<img src="img" alt="Alt Text" width="3000"/>
